@@ -82,25 +82,27 @@
 											<div class="clearfix"> </div>
 											<div  class="single-img-grid">
 												<div class="s-author">
-													<h2> <b>Mohamet BasketBall offre une defaite planetaire a Olivier Basketball </b></h2>
+													<h2> <b>AFROBASKET 2017 : LE CAMEROUN SANS JOEL EMBIID, PASCAL SIAKAM ET JÉRÉMY NZEULIE </b></h2>
 													<br>
 												</div>
 												
 												<div class="s-para">
 													
-													Quatre villes africaines vont devoir s'affronter sur les parquets.Les equipes engage
-                          a cette competition sont: Eko Kings, Lagos City Stars, Lagos Warriors(Nigeria), Libreville Izobe
-                        Dragons(Gabon), Abidja Raiders(Cote d'Ivoir), Yaounde Giants(Cameroun).
-                      Toutes ces equipes devrons de diriger vers Yaounde la Capital du Cameroun ou elle s'fronterons du
-                    du 22 au 24 Mai afin de choisir les meilleurs equipes qui participerons au All Stars weekend contre
-                    certains veterans. L'apotheose sera a Libreville au Gabon du 3 au 4 juin ou les meilleur equipes
-                    s'affronterons lors des final four afin de determiner le champion.
+													Les deux joueurs NBA et le meneur de Chalon – sur – Saône ne figurent pas sur la liste des Lions convoqués pour l’Afrobasket 2017. La Fédération camerounaise de basket-ball (Fecabasket) vient de communiquer la liste des joueurs retenus pour le stage préparatoire devant démarrer le 1er août ; et n’y figure pas Joel Embiid, Pascal Siakam et Jeremy Nzeulie.
+
+Blessé au genou gauche au mois de mars, Joël Embiid qui a vu sa première saison NBA être écourtée, intensifie actuellement son travail physique pour un retour à la compétition en octobre. Le pivot ayant manqué ses deux premières saisons à cause de blessures récurrentes au pied droit, les dirigeants de son club ne veulent pas courir le risque de voir The Process se blesser de nouveau.
+
+Élu MVP des finales de la Ligue de Développement (D-League) de la NBA avec 23 points, 9 rebonds et 3 assists de moyenne sur la série, Pascal Siakam est en quête d’une place au sein de l’équipe première des Toronto Raptors. Auteur d’une ligue d’été dans laquelle il a joué les premiers rôles, le natif de Douala est en quête de temps de jeu au sein d’une équipe qui s’est fixé pour objectif cette année, le titre NBA de champion de la conférence Est.
+
+Quant à Jeremy Nzieulie récent MVP de la finale de Pro A avec son club de Chalon- sur – Saône, cette 29ème édition de l’Afrobasket co-organisée par le Sénégal et la Tunisie et devant se tenir du 8 au 16 septembre prochain, coïncide avec la reprise du championnat de France de basket-ball.
+
+Les Lions entrent en stage d’une semaine, le lundi 1er août au Palais polyvalent des sports de Yaoundé. Puis, ils se rendront au Brésil pour une préparation d’un mois avant de rallier Tunis où ils livreront le match d’ouverture de la compétition face au pays hôte, la Tunisie.
 													
 													
 												</div>
 												</br>
 												<div class="s-author">
-													<p>Posted By <a href="#"><i class="fa fa-user" aria-hidden="true"></i> Admin</a> &nbsp;&nbsp; <i class="fa fa-calendar" aria-hidden="true"></i> June 2, 2016 &nbsp;&nbsp; <a href="#"><i class="fa fa-comments" aria-hidden="true"></i> Comments (10)</a></p>
+													<p>Posted By <a href="http://www.newsbasket-beafrika.com/2017/07/afrobasket-2017-le-cameroun-sans-joel-embiid-pascal-siakam-et-jeremy-nzeulie.html"><i class="fa fa-user" aria-hidden="true"></i> Admin</a> &nbsp;&nbsp;  &nbsp;&nbsp; <i class="fa fa-comments" aria-hidden="true"></i> Comments (0)</p>
 												</div>
 											</div>
 										</div>
