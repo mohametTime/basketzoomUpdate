@@ -128,13 +128,14 @@ Nouague Cathérine, élève
 									<div class="opinion">
 										<h3>Leave Your Comment</h3>
 										<form>
-											<input  type="text" placeholder="Name" required="">
-											<input type="text" placeholder="Email" required="">
-											<textarea  placeholder="Message" required=""></textarea>
-											<input  type="submit" value="SEND">
+											<input  type="text" placeholder="Name" required="" disabled>
+											<input type="text" placeholder="Email" required="" disabled>
+											<textarea  placeholder="Message" required="" disabled></textarea>
+											<input  type="submit" value="SEND" disabled>
 										</form>
 									</div>
 								</div>
+		
 								<!-- top-grid-left-right -->
 								<div class="col-md-4 top-grid-left-right s-top-grid-left-right">
 									<!-- most-view-grids -->

@@ -116,7 +116,6 @@ Enorme succès en 2015 avec Batum, Diaw, Mutombo, Olajuwon…
 											</div>
 										</div>
 									</div>
-
 									<div class="comments-grid">
 										<div class="comments-heading">
 											<h3>Comments</h3>
@@ -126,10 +125,10 @@ Enorme succès en 2015 avec Batum, Diaw, Mutombo, Olajuwon…
 									<div class="opinion">
 										<h3>Leave Your Comment</h3>
 										<form>
-											<input  type="text" placeholder="Name" required="">
-											<input type="text" placeholder="Email" required="">
-											<textarea  placeholder="Message" required=""></textarea>
-											<input  type="submit" value="SEND">
+											<input  type="text" placeholder="Name" required="" disabled>
+											<input type="text" placeholder="Email" required="" disabled>
+											<textarea  placeholder="Message" required="" disabled></textarea>
+											<input  type="submit" value="SEND" disabled>
 										</form>
 									</div>
 								</div>
