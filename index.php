@@ -11,7 +11,7 @@
 								<div class="col-md-8 top-grid-left-left">
 									<div class="top-grid-left-left-grids">
 										<div class="col-md-8 top-grid-left-img">
-											<div data-video="Bzt6h5uFWOU" id="video"> 
+											<div data-video="JTZ0an6LDwU" id="video"> 
 												<img src="images/f12.jpg" alt="Use your own screenshot."> 
 											</div>
 										</div>
@@ -19,12 +19,12 @@
 											<div class="top-news-heading">
 												<h3>Acceuil</h3>
 											</div>
-												<a class="text" href="single.php">Remise des Awards: Ligue du Centre</a>
-												<p>La ligue du centre a procede dans la nuit du 09 septembre 2016 a la remise des Awards.</p>
+												<a class="text" href="single.php">Basketball Feminin : Une relève assurée</a>
+											<article><span><strong>"The next generation"</strong></span> camp organisé le 22 juillet dernier au complexe Noah par les internationales de Basketball camerounais, présidé par Lonlack Ramses...</article>
 												<div class="t-grid">
 													<ul>
-														<li><a href="#"><i class="fa fa-clock-o"></i> 2h</a></li>
-														<li><a href="#"><i class="fa fa-user"></i> Ornare Congue</a></li>
+														
+														<li><i class="fa fa-user"></i>Brenda Ngoufack</li>
 													</ul>
 											</div>
 										</div>
@@ -35,7 +35,7 @@
 										<div class="three-grid">
 											<div class="three-grid-info">
 												<div class="three-grid-img">
-													<a href="single.html"><img src="images/f2.jpg" alt="" /></a>
+													<a href="single.php"><img src="images/f2.jpg" alt="" /></a>
 												</div>
 												<div class="three-grid-text">
 													<div class="three-grid-text-heading">
@@ -43,8 +43,8 @@
 													</div>
 													<div class="t-grid author-grid">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 1h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Vestibulum</a></li>
+															
+															<li><i class="fa fa-user"></i> Basketzoom</li>
 														</ul>
 													</div>
 												</div>
@@ -53,7 +53,7 @@
 										<div class="three-grid">
 											<div class="three-grid-info">
 												<div class="three-grid-img">
-													<a href="single.html"><img src="images/blank/basketball_03.jpg" alt="" /></a>
+													<a href="#"><img src="images/blank/basketball_03.jpg" alt="" /></a>
 												</div>
 												<div class="three-grid-text">
 													<div class="three-grid-text-heading">
@@ -61,8 +61,8 @@
 													</div>
 													<div class="t-grid author-grid">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 2h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Cras pretium </a></li>
+															
+															<li><i class="fa fa-user"></i> AFROBASKET 2017 </li>
 														</ul>
 													</div>
 												</div>
@@ -71,21 +71,23 @@
 										<div class="three-grid">
 											<div class="three-grid-info">
 												<div class="three-grid-img">
-													<a href="single.html"><img src="images/f6.jpg" alt="" /></a> 
+													<a href="le-mali-remporte-le-championnat-d-afrique-des-u16.php"><img src="images/blank/mali1.png" alt="" /></a>
 												</div>
 												<div class="three-grid-text">
 													<div class="three-grid-text-heading">
-														<a class="text" href="single.html">ICI un TITRE</a>
+														<a class="text" href="le-mali-remporte-le-championnat-d-afrique-des-u16.php">LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16, SIRIMAN KANOUTE ÉLU...</a>
 													</div>
 													<div class="t-grid author-grid">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 4h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Phasellus</a></li>
+															
+															<li><i class="fa fa-user"></i> Basketzoom </li>
 														</ul>
 													</div>
 												</div>
 											</div>
 										</div>
+										
+										
 										<div class="clearfix"> </div>
 									</div>
 									<!-- //three-grids -->
@@ -94,17 +96,17 @@
 										<div class="col-md-6 two-grid-left">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/f1.jpg" alt="" /></a>
+													<a href="#"><img src="images/blank/Suzy_Amougou23.PNG" alt="Nouague Catherine" /></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
-														<a class="text" href="single.html">ICI un TITRE</a>
-														<p>ICI debut du TEXT</p>
+														<a class="text" href="basketaufeminin.php">Parlons basket au féminin !</a>
+														<p>«Toute petite, je regardais les matchs de basket avec mes sœurs et mon papa...</p>
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 3h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Suspendisse</a></li>
+															
+															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -113,17 +115,17 @@
 										<div class="col-md-6 two-grid-right">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/f12.jpg" alt="" /></a>
+													<a href="basketaufeminin.php"><img src="images/blank/Nkoyock.PNG" alt="Merveille Nkoyock" /></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
-														<a class="text" href="#">ICI un TITRE</a>
-														<p>ICI debut du TEXT</p>
+														<a class="text" href="basketaufeminin.php">Parlons basket au féminin !</a>
+														<p>«Le basket est un sport collectif ou l’on s’amuse...</p>
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 6h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Vestibulum</a></li>
+															
+															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -135,17 +137,17 @@
 										<div class="col-md-6 two-grid-left">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/f1.jpg" alt="" /></a>
+													<a href="basketaufeminin.php"><img src="images/blank/morgan.png" alt="" /></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
-														<a class="text" href="single.html">ICI un TITRE</a>
-														<p>ICI debut du TEXT</p>
+														<a class="text" href="basketaufeminin.php">Parlons basket au féminin !</a>
+														<p>« J’ai choisi de jouer au basket parce que c’est un sport très...</p>
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 3h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Suspendisse</a></li>
+															
+															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -154,17 +156,17 @@
 										<div class="col-md-6 two-grid-right">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/f2.jpg" alt="" /></a>
+													<a href="#"><img src="images/blank/nouague.png" alt="" /></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
-														<a class="text" href="#">ICI un TITRE111</a>
-														<p>ICI debut du TEXT</p>
+														<a class="text" href="basketaufeminin.php">Parlons basket au féminin !</a>
+														<p>« Pour moi le basket est un sport collectif ou si tu gagnes...</p>
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
-															<li><a href="#"><i class="fa fa-clock-o"></i> 6h</a></li>
-															<li><a href="#"><i class="fa fa-user"></i> Vestibulum</a></li>
+															
+															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -177,7 +179,7 @@
 										<div class="col-md-6 two-grid-left">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/werbung.png" alt="" /></a>
+													<a href="#"><img src="images/werbung.png" alt="" /></a>
 												</div>
 												
 											</div>
@@ -185,7 +187,7 @@
 										<div class="col-md-6 two-grid-right">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="single.html"><img src="images/werbung.png" alt="" /></a>
+													<a href="#"><img src="images/werbung.png" alt="" /></a>
 												</div>
 											
 											</div>
@@ -204,34 +206,33 @@
 										<div class="top-news-grids">
 											<div class="top-news-grid">
 												<div class="top-news-grid-heading">
-													<a href="single.html">Nigeria supprised in Olympic games</a>
+													<a href="NBA_AFRICA.php">Basket: la NBA revient en Afrique pour la seconde fois le 5 août 2017</a>
 												</div>
 												<div class="t-grid top-t-grid">
 													<ul>
-														<li><a href="#"><i class="fa fa-clock-o"></i> 1h</a></li>
-														<li><a href="#"><i class="fa fa-user"></i> Dan De Dan...</a></li>
+														
+														<li><i class="fa fa-user"></i> Admin</li>
 													</ul>
 												</div>
 											</div>
 											<div class="top-news-grid">
 												<div class="top-news-grid-heading">
-													<a href="single.html">Here is basketball, no one can stop it.</a>
+													<a class="text" href="le-mali-remporte-le-championnat-d-afrique-des-u16.php">LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16.</a>
 												</div>
 												<div class="t-grid top-t-grid">
 													<ul>
-														<li><a href="#"><i class="fa fa-clock-o"></i> 3h</a></li>
-														<li><a href="#"><i class="fa fa-user"></i> Cras pretium</a></li>
+														
+														<li><i class="fa fa-user"></i> Admin</li>
 													</ul>
 												</div>
 											</div>
 											<div class="top-news-grid">
 												<div class="top-news-grid-heading">
-													<a href="single.html">All over the continent, we are proud to receive ... </a>
+													<a href="Afrobasket2017_Cameroun.php">AFROBASKET 2017 : LE CAMEROUN SANS JOEL EMBIID, PASCAL SIAKAM ET JÉRÉMY NZEULIE</a>
 												</div>
 												<div class="t-grid top-t-grid">
 													<ul>
-														<li><a href="#"><i class="fa fa-clock-o"></i> 4h</a></li>
-														<li><a href="#"><i class="fa fa-user"></i> Moh De Moh Aka William</a></li>
+														<i class="fa fa-user"></i> Admin</li>
 													</ul>
 												</div>
 											</div>
@@ -260,12 +261,19 @@
 													<div class="match-grid">
 														<div class="match-info">
 															<ul>
-																<li>cccc <span class="color">-:-</span> England</li>
-																<li> Hungary <span class="color">-:-</span> Croatia</li>
-																<li>Finland <span class="color">-:-</span> Austria</li>
-																<li>Poland <span class="color">-:-</span> Spain</li>
-																<li>Italy <span class="color">-:-</span> France</li>
-																<li> Portugal <span class="color">-:-</span> Netherlands</li>
+																<legend>Demi-Finales L1 Messieurs</legend>
+																<li>BEAC <span class="color">-:-</span> AMICALE</li>
+																<li> CONDOR <span class="color">-:-</span> FAP</li>
+																<legend>Demi-Finales DAMES</legend>
+																<li>APEJES <span class="color">-:-</span> ONYX</li>
+																<li> AS KEEP <span class="color">-:-</span> FAP</li>
+																<legend>Demi-Finales CORPOS</legend>
+																<li>FEICOM <span class="color">-:-</span> MINREX</li>
+																<li> BARREAU <span class="color">-:-</span> AFRILAND</li>
+																<legend>Demi-Finales L2 Messieurs</legend>
+																<li>AS KEEP <span class="color">-:-</span> FRIENDSHIP</li>
+																<li> ONYX<span class="color">-:-</span> KLOES</li>
+																
 															</ul>
 														</div>
 													</div>
@@ -279,12 +287,10 @@
 													 <div class="match-grid">
 									<div class="match-info">
 										<ul>
-											<li>sssss <span class="color">Vs</span> England<span>-:-</span></li>
-											<li> Hungary <span class="color">Vs</span> Croatia<span>-:-</span></li>
-											<li> Finland <span class="color">Vs</span> Austria<span>-:-</span></li>
-											<li> Poland <span class="color">Vs</span> Spain<span>-:-</span></li>
-											<li> Italy <span class="color">Vs</span> France<span>-:-</span></li>
-											<li> Portugal <span class="color">Vs</span> Netherlands<span>-:-</span></li>
+											<legend>Demi-Finales Juniors</legend>
+											<li>ALPH <span class="color">Vs</span> AMICALE<span>-:-</span></li>
+											<li> AS KEEP <span class="color">Vs</span> ESPOIR<span>-:-</span></li>
+											
 										</ul>
 									</div>
 								</div>
@@ -298,12 +304,12 @@
 										<div class="match-grid">
 									<div class="match-info">
 										<ul>
-											<li> aaaa <span class="color">Vs</span> England<span>-:-</span></li>
-											<li> Hungary <span class="color">Vs</span> Croatia<span>-:-</span></li>
-											<li> Finland <span class="color">Vs</span> Austria<span>-:-</span></li>
-											<li> Poland <span class="color">Vs</span> Spain<span>-:-</span></li>
-											<li> Italy <span class="color">Vs</span> France<span>-:-</span></li>
-											<li>Portugal <span class="color">Vs</span> Netherlands<span>-:-</span></li>
+											<li>FEICOM <span class="color">Vs</span> MINREX<span>-:-</span></li>
+											<li> BARREAU <span class="color">Vs</span> AFRILAND<span>-:-</span></li>
+											<li> APEJES <span class="color">Vs</span> ONYX<span>-:-</span></li>
+											<li> AS KEEP <span class="color">Vs</span> FRIENDSHIP<span>-:-</span></li>
+											<li> BEAC<span class="color">Vs</span> AMICALE<span>-:-</span></li>
+											<li>CONDOR <span class="color">Vs</span> FAP<span>-:-</span></li>
 										</ul>
 									</div>
 								</div>
@@ -344,13 +350,13 @@
 													1.
 												</td>
 												<td class="country">
-													<a href="club.html">Lionel Messi</a>
+													<a href="club.html">BELL BELECK</a>
 												</td>
 												<td class="t-points">
-													Forward
+													ALLIER
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Barcelona</a>
+													<a href="club.html">CONDOR</a>
 												</td>
 												
 											</tr>
@@ -359,13 +365,13 @@
 													2.
 												</td>
 												<td class="country">
-													<a href="club.html">Cristiano Ronaldo</a>
+													<a href="club.html">PIERRE ESSOME</a>
 												</td>
 												<td class="t-points">
-													Forward
+													
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Real Madrid</a>
+													<a href="club.html">BEAC</a>
 												</td>
 												
 											</tr>
@@ -374,13 +380,13 @@
 													3.
 												</td>
 												<td class="country">
-													<a href="club.html">Xavi</a>
+													<a href="club.html">J PENDA</a>
 												</td>
 												<td class="t-points">
-													Midfielder
+													AILLIER
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Barcelona</a>
+													<a href="club.html">BEAC</a>
 												</td>
 												
 											</tr>
@@ -389,13 +395,13 @@
 													4.
 												</td>
 												<td class="country">
-													<a href="club.html">Andres Iniesta</a>
+													<a href="club.html">LIELE</a>
 												</td>
 												<td class="t-points">
-													Midfielder
+													MENEUR
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Barcelona</a>
+													<a href="club.html">FAP</a>
 												</td>
 												
 											</tr>
@@ -404,13 +410,13 @@
 													5.
 												</td>
 												<td class="country">
-													<a href="club.html">Ibrahimovic</a>
+													<a href="club.html">AMBASSA</a>
 												</td>
 												<td class="t-points">
-													Forward
+													AILLIER FORT
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">PSG</a>
+													<a href="club.html">DON BOSCO</a>
 												</td>
 												
 											</tr>
@@ -419,13 +425,13 @@
 													6.
 												</td>
 												<td class="country">
-													<a href="club.html">Radamel Falcao</a>
+													<a href="club.html">KEVIN WANDA</a>
 												</td>
 												<td class="t-points">
-													Forward
+													MENEUR
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Atletico Madrid</a>
+													<a href="club.html">CONDOR</a>
 												</td>
 												
 											</tr>
@@ -434,13 +440,13 @@
 													7.
 												</td>
 												<td class="country">
-													<a href="club.html">Robin van Persie</a>
+													<a href="club.html">BITCHEKI</a>
 												</td>
 												<td class="t-points">
-													Forward
+													AILLIER
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Man Utd</a>
+													<a href="club.html">NYBA</a>
 												</td>
 												
 											</tr>
@@ -449,13 +455,13 @@
 													8.
 												</td>
 												<td class="country">
-													<a href="club.html">Andrea Pirlo</a>
+													<a href="club.html">TSANGUE</a>
 												</td>
 												<td class="t-points">
-													Midfielder
+													AILLIER
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Juventus</a>
+													<a href="club.html">BEAC</a>
 												</td>
 												
 											</tr>
@@ -464,13 +470,13 @@
 													9.
 												</td>
 												<td class="country">
-													<a href="club.html">Yaya Toure</a>
+													<a href="club.html">AYANGMA</a>
 												</td>
 												<td class="t-points">
 													Midfielder
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Man City</a>
+													<a href="club.html">BEAC</a>
 												</td>
 												
 											</tr>
@@ -479,13 +485,13 @@
 													10.
 												</td>
 												<td class="country">
-													<a href="club.html">Edinson Cavani</a>
+													<a href="club.html">LUDOVIC MIENNE</a>
 												</td>
 												<td class="t-points">
-													Forward
+													MENEUR
 												</td>
 												<td class="t-points p-points">
-													<a href="club.html">Napoli</a>
+													<a href="club.html">BEAC</a>
 												</td>
 												
 											</tr>
@@ -510,8 +516,10 @@
 						
 							<!-- advertising -->
 							<div class="today-match">
+								<img src="images/BasketzoomGT.JPG" style="float:left;width:290px;height:320px;"alt="" />
 								<div class="today-match-heading">
-									<h2>advertising</h2>
+									<h2>Publicite</h2>
+									
 								</div>
 							</div>
 							<!-- //advertising -->
@@ -525,13 +533,13 @@
 								<div class="match-grid">
 									<div class="match-info">
 										<ul>
-											<li><span>Lu 16:00</span> Germany <span class="color">Vs</span> England</li>
-											<li><span>Ma 17:30</span> Hungary <span class="color">Vs</span> Croatia</li>
-											<li><span>Me 18:45</span> Finland <span class="color">Vs</span> Austria</li>
-											<li><span>Je 19:00</span> Poland <span class="color">Vs</span> Spain</li>
-											<li><span>Ve 20:15</span> Italy <span class="color">Vs</span> France</li>
-											<li><span>Sa 20:45</span> Portugal <span class="color">Vs</span> Netherlands</li>
-											<li><span>Di 20:45</span> Portugal <span class="color">Vs</span> Netherlands</li>
+											<li><span>FINALE FILLES</span> ASKEEP <span class="color">Vs</span> FUSEE</li>
+											<li><span>FINALE JUNIORS</span> ALPH <span class="color">Vs</span> ASKEEP</li>
+											<li><span>FINALE CORPO</span> CCEI <span class="color">Vs</span> MINREX</li>
+											<li><span>FINALE U16</span> ASKEEP <span class="color">Vs</span> VOGT</li>
+											<li><span>FINALE U14</span> ACPB<span class="color">Vs</span> VOGT</li>
+											<li><span>FINALE U12</span> FUSEE <span class="color">Vs</span> VOGT</li>
+											<li><span>FINALE U10</span> FALCONS <span class="color">Vs</span> FUSEE</li>
 										</ul>
 									</div>
 								</div>
@@ -584,10 +592,10 @@
 																									1.
 																								</td>
 																								<td class="country">
-																									Allemagne
+																									APJES
 																								</td>
 																								<td class="t-points">
-																									1506
+																									14
 																								</td>
 																								
 																							</tr>
@@ -596,10 +604,10 @@
 																									2.
 																								</td>
 																								<td class="country">
-																									Argentina
+																									FAP
 																								</td>
 																								<td class="t-points">
-																									1457
+																									12
 																								</td>
 																								
 																							</tr>
@@ -608,10 +616,10 @@
 																									3.
 																								</td>
 																								<td class="country">
-																									Spain
+																									UDLA
 																								</td>
 																								<td class="t-points">
-																									1374
+																									11
 																								</td>
 																								
 																							</tr>
@@ -620,25 +628,14 @@
 																									4.
 																								</td>
 																								<td class="country">
-																									Germany
+																								ONYX
 																								</td>
 																								<td class="t-points">
-																									1355
+																									11
 																								</td>
 																								
 																							</tr>
-																							<tr class="b-color">
-																								<td class="rank">
-																									5.
-																								</td>
-																								<td class="country">
-																									Chile
-																								</td>
-																								<td class="t-points">
-																									1307
-																								</td>
-																								
-																							</tr>
+																							
 																						</tbody>
 																					</table>
 																				</div>

@@ -77,41 +77,28 @@
 									<div class="top-grid-left-left-grids">
 										<div class="s-top-grid-left-img">
 											<div>
-												<img src="images/blank/basketball_03.jpg" alt="Use your own screenshot.">
+												<img src="images/blank/mali1.png" alt="LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16">
 											</div>
 											<div class="clearfix"> </div>
 											<div  class="single-img-grid">
 												<div class="s-author">
-													<h2> <b>AFROBASKET 2017 : L’ORGANISATION ACCORDÉE À LA TUNISIE ET AU SÉNÉGAL</b></h2>
+													<h2> <b>LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16, SIRIMAN KANOUTE ÉLU MVP DU TOURNOI </b></h2>
 													<br>
 												</div>
 												
 												<div class="s-para">
-													
-												.
-Erik Williams/Reuters <br>
-													
-La prestigieuse NBA a annoncé la tenue à Johannesburg, samedi 5 août 2017, d’un match de gala entre une équipe « Africaine » et une autre « Monde ». Une première rencontre sur le continent africain avait eu lieu en 2015. Adam Silver, commissaire de la NBA, salue « la croissance du basket en Afrique ». Le NBA Africa Game 2015 avait été un succès; la NBA et ses joueurs attendent beaucoup de ce nouvel épisode.
+												PHOENIX (FIBA U16 African Championship 2017) - Le Mali a remporté son tout premier titre de Champion d'Afrique des U16 après avoir battu dimanche en finale de l'édition 2017 l'Égypte par 76-65, à Phoenix, île Maurice.
 
-« Where amazing happens » (Où l’incroyable se produit en anglais) : c’est le slogan de la NBA (National Basketball Association), la fameuse ligue nord-américaine de basket-ball. Cet été, l’incroyable NBA s’offrira un nouveau détour par l’Afrique. C’est ce qu’ont annoncé les dirigeants de la ligue ce samedi 18 février : le NBA Africa Game aura droit à une suite en 2017. Ça se passera le 5 août à Johannesburg, en Afrique du Sud.<br>
+Siriman Kanoute qui a porté le Mali a fini meilleur marqueur de son équipe avec 17 points, il a aussi réalisé 9 passes décisives. Côté égyptien, c'est Momen Mohamed Hassan qui a été le plus prolifique, terminant meilleur marqueur du match avec 22 points. Ses coéquipiers Aly Khalifa et Omar Morsy ont cumulé 33 points, mais ce fût insuffisant pour offrir la victoire à son équipe.
 
-<b>« Le basket connaît une croissance explosive en Afrique »</b><br>
+Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place en disposant de la Tunisie 57-54 Kanoute a été désigné MVP du tournoi, et figure dans le "5 majeur" de la compétition, en compagine de Faiez Ghomrassi (Tunisie), Aly Abdelrahman Khalifa(Egypt), Thierry Nkundwa(Rwanda) et Oumar Ballo(Mali).
+													<br><b>Le classement final du Championnat d'Afrique des U16 FIBA 2017</b><br>
 
-24 heures avant la 66e édition du All-Star Game (match de gala réunissant les meilleurs joueurs de la NBA chaque année aux Etats-Unis), Adam Silver, commissaire de la NBA, a officialisé l’organisation d’un nouveau match en Afrique, deux ans après le premier. Le patron de la NBA était notamment accompagné d’Amadou Gallo Fall, vice-président de la NBA en charge de l’Afrique. « Le basket connaît une croissance explosive en Afrique. Notre retour à Johannesburg fait partie de l’engagement continu de la ligue pour apporter l’expérience authentique de la NBA à tous les fans à travers le monde », a déclaré Adam Silver depuis La Nouvelle-Orléans (Lousiane).
-
-La NBPA (National Basketball Players Association, le principal syndicat des joueurs de la NBA), s’associe à l’organisation du NBA Africa Game 2017, qui aura lieu au Ticketpro Dome au nord de Johannesburg. Adam Silver salue les membres de la NBPA, « des partenaires formidables ». « Les joueurs de la NBA comptent parmi les sportifs les plus célèbres du monde. Nous sommes ravis de poursuivre la croissance de ce sport avec ce second match en Afrique », déclare Michele Roberts, directrice exécutive de la NBPA.
-
-<br><b>Enorme succès en 2015 avec Batum, Diaw, Mutombo, Olajuwon…</b><br>
-
-Le premier NBA Africa Game avait eu lieu le 1er août 2015 à l’Ellis Park Arena de Johannesburg. Une « Team Africa », composée de joueurs africains ou d’origine africaine, avait affronté une sélection de joueurs de la NBA réunis sous la bannière « Team World ». Côté « Team Africa », on trouvait notamment Nicolas Batum (France/Cameroun), Boris Diaw (France/Sénégal), Bismack Biyombo (RDC), Serge Ibaka (Espagne/Congo), Luol Deng (Grande-Bretagne/Soudan du Sud) ainsi que deux retraités légendaires de la NBA, Dikembe Mutombo (Etats-Unis/RDC) et Hakeem Olajuwon (Etats-Unis/Nigeria).
-
-Dans les rangs de la « Team World », on trouvait entre autres les deux frères espagnols Marc et Pau Gasol, le Monténégrin Nikola Vucevic et les Américains Jeff Green et Chris Paul. La « Team World » s’était imposée de peu (101-97) après avoir été menée durant les trois premiers quarts-temps.
-
-« Le NBA Africa Game 2015 eut un succès retentissant et nous sommes reconnaissants pour le soutien des joueurs et des équipes qui y ont contribué. (…) J’espère que les fans de toute l’Afrique nous rejoindront », déclare Amadou Gallo Fall. Bismack Biyombo, l’un des meilleurs joueurs d’Orlando Magic, sera de nouveau dans la « Team Africa ». Son compatriote congolais Emmanuel Mudiay, joueur des Denver Nuggets et étoile montante en NBA, sera présent aussi. « Ce fut un honneur et un privilège de jouer lors du premier match NBA en Afrique en 2015. J’attends avec impatience un autre super match en août », a confié Biyombo. Pour Mudiay, disputer un match de NBA en Afrique est « un rêve qui devient réalité »..
+													1. Mali<br>2. Egypte<br>3. Algérie<br>4. Tunisie<br>5. Madagascar<br>6. Rwanda<br>7. Mozambique<br>8. Maurice
 												</div>
 												</br>
 												<div class="s-author">
-													<p>Posted By<i class="fa fa-user" aria-hidden="true"></i> Admin &nbsp;&nbsp;</p>
+													<p>Posted By <a href="http://www.newsbasket-beafrika.com/2017/07/le-mali-remporte-le-championnat-d-afrique-des-u16-siriman-kanoute-elu-mvp-du-tournoi.html"><i class="fa fa-user" aria-hidden="true"></i> newsbasket-beafrika.com</a> &nbsp;&nbsp; <i class="fa fa-calendar" aria-hidden="true"></i> Juillet 24, 2017 &nbsp;&nbsp; <a href="#"><i class="fa fa-comments" aria-hidden="true"></i> Comments (0)</a></p>
 												</div>
 											</div>
 										</div>
