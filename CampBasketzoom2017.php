@@ -1,4 +1,6 @@
+
 <?php require 'header.php' ?>
+			        
 			<div id="page-wrapper">
 				<div class="top-grids">
 					<div class="top-grids-info">
@@ -10,7 +12,7 @@
 								</div>
 								<?php require 'topnews.php' ?>
 							</div>
-
+							
 						</div>
 						<!-- //top-grid-right -->
 						<!-- top-grid-left -->
@@ -20,33 +22,60 @@
 								<div class="col-md-8 top-grid-left-left s-top-grid-left-left">
 									<div class="top-grid-left-left-grids">
 										<div class="s-top-grid-left-img">
-											<div>
-												<img src="images/blank/mali1.png" alt="LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16">
+											<div data-video="Bzt6h5uFWOU" id="video"> 
+												<img src="images/f4.jpg" alt="Use your own screenshot."> 
 											</div>
 											<div class="clearfix"> </div>
 											<div  class="single-img-grid">
 												<div class="s-author">
-													<h2> <b>LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16, SIRIMAN KANOUTE ÉLU MVP DU TOURNOI </b></h2>
+													<h2> <b>le camp de basketball « ballers starting from the roots » </b></h2>
 													<br>
 												</div>
-												
 												<div class="s-para">
-												PHOENIX (FIBA U16 African Championship 2017) - Le Mali a remporté son tout premier titre de Champion d'Afrique des U16 après avoir battu dimanche en finale de l'édition 2017 l'Égypte par 76-65, à Phoenix, île Maurice.
+													
+													Le mardi 11 avril 2017 dès 8h30, a débuté au collège François Xavier Vogt le camp de basketball « ballers starting from the roots » organisé par le collectif BASKETZOOM, représenté ici par Mr Jean jacques Salla.
+Avant l’ouverture du camp, le comité d’organisation a pris des mesures visant éviter toutes distractions des jeunes campeuses et assurer leur sécurité. 
+Les activités durant ces 2 jours de camp étaient constituées de quatre grandes articulations, les étirements et échauffements, les ateliers de travail, les exercices de défense, le jeu.
 
-Siriman Kanoute qui a porté le Mali a fini meilleur marqueur de son équipe avec 17 points, il a aussi réalisé 9 passes décisives. Côté égyptien, c'est Momen Mohamed Hassan qui a été le plus prolifique, terminant meilleur marqueur du match avec 22 points. Ses coéquipiers Aly Khalifa et Omar Morsy ont cumulé 33 points, mais ce fût insuffisant pour offrir la victoire à son équipe.
+Coordonnés par les coachs, les exercices d’étirement et d’échauffement ont permis aux campeuses de se mettre dans le bain du camp. En ceci leur a permis tout d’abord de se décontracter et de préparer leurs corps aux différents exercices à venir.
+Répartis en 3 groupes de 8 campeuses, les ateliers de travail étaient,les suivants : un atelier de tir, un atelier de dribble, un atelier de layup, une atelier défense et renforcements.
 
-Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place en disposant de la Tunisie 57-54 Kanoute a été désigné MVP du tournoi, et figure dans le "5 majeur" de la compétition, en compagine de Faiez Ghomrassi (Tunisie), Aly Abdelrahman Khalifa(Egypt), Thierry Nkundwa(Rwanda) et Oumar Ballo(Mali).
-													<br><b>Le classement final du Championnat d'Afrique des U16 FIBA 2017</b><br>
+L’objectif du travail en atelier était de renforcer un aspect particulier de la technique individuelle de chaque joueuse, d’où la rotation de celles-ci dans tous les ateliers, toutes les 20 minutes.
 
-													1. Mali<br>2. Egypte<br>3. Algérie<br>4. Tunisie<br>5. Madagascar<br>6. Rwanda<br>7. Mozambique<br>8. Maurice
+Les exercices de défense constituaient la grande activité de la mi journée. En effet, regroupées toutes ensemble sur le terrain, les dix campeuses ont été soumises aux différents exercices de défense élaborés par les coachs pendant une durée de 20 minutes.
+
+Après la grande pause qui a précédé la première partie de la journée, le jeu a constitué la principale activité de l’après-midi. Regroupées en 4 équipes de 6 filles, les campeuses ont livré tour à tour des matchs les unes contre les autres, encadrées par les coachs affectés à chaque équipe. Les jeunes officielles dames de la ligue départementale de basketball du Mfoundi ont arbitré les matchs dans le respect des règles FIBA.
+
+La cérémonie de clôture du camp qui s’est tenue à la fin de la journée du mercredi, a été marquée par 3 articulations, à savoir : un match de gala, la remise des récompenses, la remise des diplômes.
+
+Ce match qui a opposé les jeunes campeuses aux coachs, s’est déroulé dans une ambiance chaleureuse et compétitive. Cette confrontation âprement sollicitée par les campeuses, leur a permis de montrer aux coachs ce qu’elles ont retenu durant ces deux jours d'entraînements.
+
+Durant le camp des jeunes filles se sont démarquées et ont été primées durant la cérémonie de clôture.
+
+Parvenus au terme du camp, chaque participant s’est vu remettre une attestation de participation, notamment : les campeuses, les coachs, les arbitres et le staff médical.
+
+Les principales difficultés rencontrées dans l’organisation de ce camp étaient les suivantes :
+- La disponibilité d’un terrain pour le camp ;
+- L’insuffisance du matériel pour les campeuses (chaussures, étroitesse des maillots, etc…)
+
+Au terme de ce camp, quelques perspectives ont pu être dégagées, à court terme et à long terme.
+A court terme organiser un camp pour jeunes filles et un camp pour les jeunes garçons,à long terme  organiser un tournoi pour les jeunes filles et un tournoi pour les jeunes garçons.
+
+ Puis de façon générale organiser des camps pour les jeunes filles et jeunes garçons dans les autres villes du Cameroun.
+ De ce camp, il se dégage certains suggestion à savoir,renforcer la communication autours des événements, prendre du temps pour bien organiser le camp,transmettre les correspondances administratives à temps, informer les parents à temps, recherche de sponsors et de partenaires.
+
+
+													
+													
 												</div>
 												</br>
 												<div class="s-author">
-													<p>Posted By <a href="http://www.newsbasket-beafrika.com/2017/07/le-mali-remporte-le-championnat-d-afrique-des-u16-siriman-kanoute-elu-mvp-du-tournoi.html"><i class="fa fa-user" aria-hidden="true"></i> newsbasket-beafrika.com</a> &nbsp;&nbsp; <i class="fa fa-calendar" aria-hidden="true"></i> Juillet 24, 2017 &nbsp;&nbsp; <a href="#"><i class="fa fa-comments" aria-hidden="true"></i> Comments (0)</a></p>
+													<p>Posted By <a href="#"><i class="fa fa-user" aria-hidden="true"></i> Admin</a> &nbsp;&nbsp; <i class="fa fa-calendar" aria-hidden="true"></i> June 2, 2016 &nbsp;&nbsp; <a href="#"><i class="fa fa-comments" aria-hidden="true"></i> Comments (10)</a></p>
 												</div>
 											</div>
 										</div>
 									</div>
+									
 									<div class="comments-grid">
 										<div class="comments-heading">
 											<h3>Comments</h3>
@@ -62,6 +91,7 @@ Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place 
 											<input  type="submit" value="SEND" disabled>
 										</form>
 									</div>
+				
 								</div>
 								<!-- top-grid-left-right -->
 								<div class="col-md-4 top-grid-left-right s-top-grid-left-right">
@@ -76,11 +106,11 @@ Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place 
 														<script>
 															function cycle($item, $cycler){
 																setTimeout(cycle, 2000, $item.next(), $cycler);
-
+																
 																$item.slideUp(1000,function(){
-																	$item.appendTo($cycler).show();
+																	$item.appendTo($cycler).show();        
 																});
-
+												
 																}
 															cycle($('#cycler div:first'),  $('#cycler'));
 														</script>
@@ -97,7 +127,7 @@ Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place 
 						<!-- //top-grid-left -->
 						<div class="clearfix"> </div>
 					</div>
-
+				
 				</div>
 			</div>
 			<!-- Modal -->
@@ -152,4 +182,4 @@ Plus tôt dans la journée, l'Algérie a remporté le match pour la 3ème place 
 						</div>
 					<!-- //	Modal -->
 			<!--footer section start-->
-	<?php require 'footer.php' ?>	
+<?php require 'footer.php' ?>

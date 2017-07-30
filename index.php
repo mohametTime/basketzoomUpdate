@@ -96,17 +96,17 @@
 										<div class="col-md-6 two-grid-left">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="#"><img src="images/blank/Suzy_Amougou23.PNG" alt="Nouague Catherine" /></a>
+													<a href="#"><img src="images/blank/Suzy_Amougou23.PNG" alt="Nouague Catherine" style="float:left;width:160px;height:180px;" hspace="20"/></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
 														<a class="text" href="basketaufeminin.php">Parlons basket au féminin !</a>
-														<p>«Toute petite, je regardais les matchs de basket avec mes sœurs et mon papa...</p>
+														<p>«Toute petite, je regardais les matchs de basket ...</p>
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
 															
-															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
+															<li>Written By<i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -115,7 +115,7 @@
 										<div class="col-md-6 two-grid-right">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="basketaufeminin.php"><img src="images/blank/Nkoyock.PNG" alt="Merveille Nkoyock" /></a>
+													<a href="basketaufeminin.php"><img src="images/blank/Nkoyock.PNG" alt="Merveille Nkoyock" style="float:left;width:160px;height:180px;" hspace="20"/></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
@@ -124,8 +124,7 @@
 													</div>
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
-															
-															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
+															<li>Written By<i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -137,7 +136,7 @@
 										<div class="col-md-6 two-grid-left">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="basketaufeminin.php"><img src="images/blank/morgan.png" alt="" /></a>
+													<a href="basketaufeminin.php"><img src="images/blank/morgan.png" alt="" style="float:left;width:160px;height:180px;" hspace="20"/></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
@@ -147,7 +146,7 @@
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
 															
-															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
+															<li>Written By<i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -156,7 +155,7 @@
 										<div class="col-md-6 two-grid-right">
 											<div class="two-grid-info">
 												<div class="two-grid-img">
-													<a href="#"><img src="images/blank/nouague.png" alt="" /></a>
+													<a href="#"><img src="images/blank/nouague.png" alt="" style="float:left;width:160px;height:180px;" hspace="20" /></a>
 												</div>
 												<div class="two-grid-text">
 													<div class="three-grid-text-heading two-grid-text-heading">
@@ -166,7 +165,7 @@
 													<div class="t-grid author-grid two-grid-author">
 														<ul>
 															
-															<li><i class="fa fa-user"></i> Brenda Ngoufack</li>
+															<li>Written By<i class="fa fa-user"></i> Brenda Ngoufack</li>
 														</ul>
 													</div>
 												</div>
@@ -203,40 +202,7 @@
 										<div class="top-news-heading">
 											<h3>Top News</h3>
 										</div>
-										<div class="top-news-grids">
-											<div class="top-news-grid">
-												<div class="top-news-grid-heading">
-													<a href="NBA_AFRICA.php">Basket: la NBA revient en Afrique pour la seconde fois le 5 août 2017</a>
-												</div>
-												<div class="t-grid top-t-grid">
-													<ul>
-														
-														<li><i class="fa fa-user"></i> Admin</li>
-													</ul>
-												</div>
-											</div>
-											<div class="top-news-grid">
-												<div class="top-news-grid-heading">
-													<a class="text" href="le-mali-remporte-le-championnat-d-afrique-des-u16.php">LE MALI REMPORTE LE CHAMPIONNAT D'AFRIQUE DES U16.</a>
-												</div>
-												<div class="t-grid top-t-grid">
-													<ul>
-														
-														<li><i class="fa fa-user"></i> Admin</li>
-													</ul>
-												</div>
-											</div>
-											<div class="top-news-grid">
-												<div class="top-news-grid-heading">
-													<a href="Afrobasket2017_Cameroun.php">AFROBASKET 2017 : LE CAMEROUN SANS JOEL EMBIID, PASCAL SIAKAM ET JÉRÉMY NZEULIE</a>
-												</div>
-												<div class="t-grid top-t-grid">
-													<ul>
-														<i class="fa fa-user"></i> Admin</li>
-													</ul>
-												</div>
-											</div>
-										</div>
+										<?php require 'topnews.php' ?>
 									</div>
 									</div>
 									<!-- player-rank -->
@@ -262,17 +228,17 @@
 														<div class="match-info">
 															<ul>
 																<legend>Demi-Finales L1 Messieurs</legend>
-																<li>BEAC <span class="color">-:-</span> AMICALE</li>
-																<li> CONDOR <span class="color">-:-</span> FAP</li>
+																<li>BEAC <span class="color">86:49</span> AMICALE</li>
+																<li> CONDOR <span class="color">72:65</span> FAP</li>
 																<legend>Demi-Finales DAMES</legend>
-																<li>APEJES <span class="color">-:-</span> ONYX</li>
-																<li> AS KEEP <span class="color">-:-</span> FAP</li>
+																<li>APEJES <span class="color">61:46</span> ONYX</li>
+																<li> AS KEEP <span class="color">42:53</span> FAP</li>
 																<legend>Demi-Finales CORPOS</legend>
-																<li>FEICOM <span class="color">-:-</span> MINREX</li>
-																<li> BARREAU <span class="color">-:-</span> AFRILAND</li>
+																<li>FEICOM <span class="color">61:63</span> MINREX</li>
+																<li> BARREAU <span class="color">67:74</span> AFRILAND</li>
 																<legend>Demi-Finales L2 Messieurs</legend>
-																<li>AS KEEP <span class="color">-:-</span> FRIENDSHIP</li>
-																<li> ONYX<span class="color">-:-</span> KLOES</li>
+																<li>AS KEEP <span class="color">68:51</span> FRIENDSHIP</li>
+																<li> ONYX<span class="color">61:46</span> KLOES</li>
 																
 															</ul>
 														</div>
@@ -288,8 +254,8 @@
 									<div class="match-info">
 										<ul>
 											<legend>Demi-Finales Juniors</legend>
-											<li>ALPH <span class="color">Vs</span> AMICALE<span>-:-</span></li>
-											<li> AS KEEP <span class="color">Vs</span> ESPOIR<span>-:-</span></li>
+											<li>ALPH <span class="color">Vs</span> AMICALE<span>47:39</span></li>
+											<li> AS KEEP <span class="color">Vs</span> ESPOIR<span>61:59</span></li>
 											
 										</ul>
 									</div>
@@ -304,8 +270,8 @@
 										<div class="match-grid">
 									<div class="match-info">
 										<ul>
-											<li>FEICOM <span class="color">Vs</span> MINREX<span>-:-</span></li>
-											<li> BARREAU <span class="color">Vs</span> AFRILAND<span>-:-</span></li>
+											<li>FEICOM <span class="color">Vs</span> MINREX<span>61:63</span></li>
+											<li> BARREAU <span class="color">Vs</span> AFRILAND<span>67:74</span></li>
 											<li> APEJES <span class="color">Vs</span> ONYX<span>-:-</span></li>
 											<li> AS KEEP <span class="color">Vs</span> FRIENDSHIP<span>-:-</span></li>
 											<li> BEAC<span class="color">Vs</span> AMICALE<span>-:-</span></li>
@@ -473,7 +439,7 @@
 													<a href="club.html">AYANGMA</a>
 												</td>
 												<td class="t-points">
-													Midfielder
+													AILLIER
 												</td>
 												<td class="t-points p-points">
 													<a href="club.html">BEAC</a>
@@ -516,11 +482,19 @@
 						
 							<!-- advertising -->
 							<div class="today-match">
-								<img src="images/BasketzoomGT.JPG" style="float:left;width:290px;height:320px;"alt="" />
-								<div class="today-match-heading">
-									<h2>Publicite</h2>
-									
-								</div>
+								<div id="myCarousel1" class="carousel slide" data-ride="carousel">
+   
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="images/BasketzoomGT.jpg" alt="Los Angeles" style="width:100%;">
+	</div>
+
+    </div>
+
+  </div>
+								
 							</div>
 							<!-- //advertising -->
 						
@@ -767,10 +741,10 @@
 																						1.
 																					</td>
 																					<td class="country">
-																						Allemagne
+																						AS KEEP
 																					</td>
 																					<td class="t-points">
-																						1506
+																						-:-
 																					</td>
 																					
 																				</tr>
@@ -779,10 +753,10 @@
 																						2.
 																					</td>
 																					<td class="country">
-																						Argentina
+																						N'ZUI MANTO
 																					</td>
 																					<td class="t-points">
-																						1457
+																						-:-
 																					</td>
 																					
 																				</tr>
@@ -791,10 +765,10 @@
 																						3.
 																					</td>
 																					<td class="country">
-																						Spain
+																						N'DERE EBB
 																					</td>
 																					<td class="t-points">
-																						1374
+																						-:-
 																					</td>
 																					
 																				</tr>
@@ -803,25 +777,14 @@
 																						4.
 																					</td>
 																					<td class="country">
-																						Germany
+																						TEERENSTRA
 																					</td>
 																					<td class="t-points">
-																						1355
+																						-:-
 																					</td>
 																					
 																				</tr>
-																				<tr class="b-color">
-																					<td class="rank">
-																						5.
-																					</td>
-																					<td class="country">
-																						Chile
-																					</td>
-																					<td class="t-points">
-																						1307
-																					</td>
-																					
-																				</tr>
+																				
 																				</tbody>
 																		</table>
 																	</div>
@@ -857,22 +820,22 @@
 																					1.
 																				</td>
 																				<td class="country">
-																					Allemagne
+																					ALPH YAOUNDE
 																				</td>
 																				<td class="t-points">
-																					1506
+																					-:-
 																				</td>
-																				
+																									
 																			</tr>
 																			<tr class="bg-color">
 																				<td class="rank">
 																					2.
 																				</td>
 																				<td class="country">
-																					Argentina
+																					AS KEEP 
 																				</td>
 																				<td class="t-points">
-																					1457
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -881,10 +844,10 @@
 																					3.
 																				</td>
 																				<td class="country">
-																					Spain
+																					BEES KUMBO
 																				</td>
 																				<td class="t-points">
-																					1374
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -893,10 +856,10 @@
 																					4.
 																				</td>
 																				<td class="country">
-																					Germany
+																					N'DERE EBB
 																				</td>
 																				<td class="t-points">
-																					1355
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -905,10 +868,70 @@
 																					5.
 																				</td>
 																				<td class="country">
-																					Chile
+																					ESPOIR YAOUNDE
 																				</td>
 																				<td class="t-points">
-																					1307
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="bg-color">
+																				<td class="rank">
+																					6.
+																				</td>
+																				<td class="country">
+																					LIBERMANN DLA
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					7.
+																				</td>
+																				<td class="country">
+																					MAROUA BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="bg-color">
+																				<td class="rank">
+																					8.
+																				</td>
+																				<td class="country">
+																					FLUX ACADEMIY
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					9.
+																				</td>
+																				<td class="country">
+																					NORD BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="bg-color">
+																				<td class="rank">
+																					10.
+																				</td>
+																				<td class="country">
+																					N'DERE AB
+																				</td>
+																				<td class="t-points">
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -941,67 +964,128 @@
 																	
 																</thead>
 																<tbody>
-																	<tr class="b-color">
-																		<td class="rank">
-																			1.
-																		</td>
-																		<td class="country">
-																			Allemagne
-																		</td>
-																		<td class="t-points">
-																			1506
-																		</td>
-																		
-																	</tr>
-																	<tr class="bg-color">
-																		<td class="rank">
-																			2.
-																		</td>
-																		<td class="country">
-																			Argentina
-																		</td>
-																		<td class="t-points">
-																			1457
-																		</td>
-																		
-																	</tr>
-																	<tr class="b-color">
-																		<td class="rank">
-																			3.
-																		</td>
-																		<td class="country">
-																			Spain
-																		</td>
-																		<td class="t-points">
-																			1374
-																		</td>
-																		
-																	</tr>
-																	<tr class="bg-color">
-																		<td class="rank">
-																			4.
-																		</td>
-																		<td class="country">
-																			Germany
-																		</td>
-																		<td class="t-points">
-																			1355
-																		</td>
-																		
-																	</tr>
-																	<tr class="b-color">
-																		<td class="rank">
-																			5.
-																		</td>
-																		<td class="country">
-																			Chile
-																		</td>
-																		<td class="t-points">
-																			1307
-																		</td>
-																		
-																	</tr>
-																	</tbody>
+																	
+																			<tr class="b-color">
+																				<td class="rank">
+																					1.
+																				</td>
+																				<td class="country">
+																					ALPH YAOUNDE
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																									
+																			</tr>
+																			<tr class="bg-color">
+																				<td class="rank">
+																					2.
+																				</td>
+																				<td class="country">
+																					AS KEEP YAOUNDE
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					3.
+																				</td>
+																				<td class="country">
+																					BEES KUMBO
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="bg-color">
+																				<td class="rank">
+																					4.
+																				</td>
+																				<td class="country">
+																					N'DERE EBB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					5.
+																				</td>
+																				<td class="country">
+																					ESPOIR YAOUNDE
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					6.
+																				</td>
+																				<td class="country">
+																					LIBERMANN DLA
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					7.
+																				</td>
+																				<td class="country">
+																					MAROUA BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					8.
+																				</td>
+																				<td class="country">
+																					FLUX ACADEMIY
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					9.
+																				</td>
+																				<td class="country">
+																					NORD BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					10.
+																				</td>
+																				<td class="country">
+																					N'DERE AB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																</tbody>
 															</table>
 														</div>
 												  </div>
@@ -1044,10 +1128,10 @@
 																						1.
 																					</td>
 																					<td class="country">
-																						Allemagne
+																						AS KEEP YAOUNDE
 																					</td>
 																					<td class="t-points">
-																						1506
+																						15
 																					</td>
 																					
 																				</tr>
@@ -1056,10 +1140,10 @@
 																						2.
 																					</td>
 																					<td class="country">
-																						Argentina
+																						N'ZUI MANTO BAGANTE
 																					</td>
 																					<td class="t-points">
-																						1457
+																						12
 																					</td>
 																					
 																				</tr>
@@ -1068,10 +1152,10 @@
 																						3.
 																					</td>
 																					<td class="country">
-																						Spain
+																						N'DERE NGAOUNDERE
 																					</td>
 																					<td class="t-points">
-																						1374
+																						10
 																					</td>
 																					
 																				</tr>
@@ -1080,25 +1164,14 @@
 																						4.
 																					</td>
 																					<td class="country">
-																						Germany
+																						TEERENSTRA BERTOUA
 																					</td>
 																					<td class="t-points">
-																						1355
+																						10
 																					</td>
 																					
 																				</tr>
-																				<tr class="b-color">
-																					<td class="rank">
-																						5.
-																					</td>
-																					<td class="country">
-																						Chile
-																					</td>
-																					<td class="t-points">
-																						1307
-																					</td>
-																					
-																				</tr>
+																				
 																				
 																				<tr class="b-color">
 																					<td class="rank">
@@ -1195,10 +1268,10 @@
 																					1.
 																				</td>
 																				<td class="country">
-																					Allemagne
+																					ALPH YAOUNDE
 																				</td>
 																				<td class="t-points">
-																					1506
+																					-:-
 																				</td>
 																									
 																			</tr>
@@ -1207,10 +1280,10 @@
 																					2.
 																				</td>
 																				<td class="country">
-																					Argentina
+																					AS KEEP YAOUNDE
 																				</td>
 																				<td class="t-points">
-																					1457
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -1219,10 +1292,10 @@
 																					3.
 																				</td>
 																				<td class="country">
-																					Spain
+																					BEES KUMBO
 																				</td>
 																				<td class="t-points">
-																					1374
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -1231,10 +1304,10 @@
 																					4.
 																				</td>
 																				<td class="country">
-																					Germany
+																					N'DERE EBB
 																				</td>
 																				<td class="t-points">
-																					1355
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -1243,10 +1316,70 @@
 																					5.
 																				</td>
 																				<td class="country">
-																					Chile
+																					ESPOIR YAOUNDE
 																				</td>
 																				<td class="t-points">
-																					1307
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					6.
+																				</td>
+																				<td class="country">
+																					LIBERMANN DLA
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					7.
+																				</td>
+																				<td class="country">
+																					MAROUA BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					8.
+																				</td>
+																				<td class="country">
+																					FLUX ACADEMIY
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					9.
+																				</td>
+																				<td class="country">
+																					NORD BB
+																				</td>
+																				<td class="t-points">
+																					-:-
+																				</td>
+																				
+																			</tr>
+																			<tr class="b-color">
+																				<td class="rank">
+																					10.
+																				</td>
+																				<td class="country">
+																					N'DERE AB
+																				</td>
+																				<td class="t-points">
+																					-:-
 																				</td>
 																				
 																			</tr>
@@ -1355,7 +1488,40 @@
 							</div>
 							<!-- //ranking -->
 							
+								<div class="today-match">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+   
 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="images/blank/partenaires/bild1.png" alt="Los Angeles" style="width:100%;">
+	</div>
+
+      <div class="item">
+        <img src="images/blank/partenaires/bild8.jpeg" alt="Dortmund" style="width:100%;">
+      </div>
+    
+      <div class="item">
+         <img src="images/blank/partenaires/bild4.png" alt="Douala" style="width:100%;">
+      </div>
+	  <div class="item">
+        <img src="images/blank/partenaires/bild2.png" alt="Los Angeles" style="width:100%;">
+	</div>
+
+      <div class="item">
+         <img src="images/blank/partenaires/bild3.png" alt="Dortmund" style="width:100%;">
+      </div>
+    
+      <div class="item">
+         <img src="images/blank/partenaires/bild7.jpeg" alt="Douala" style="width:100%;">
+      </div>
+	  
+    </div>
+
+  </div>
+								
+							</div>
 							
 							</div>
 						<!-- //top-grid-right -->
